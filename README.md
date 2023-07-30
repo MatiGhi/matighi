@@ -3,7 +3,7 @@
    “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/matias-ghiglione-276900150/“, 
+      "Linkedin" : "https://www.linkedin.com/in/mghiglione/“, 
       "Resume"   : "https://matighi.github.io/landing”
      }
  }
