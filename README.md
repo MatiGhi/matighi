@@ -1,10 +1,11 @@
 ```shell
  { “name” : “Matias Ghiglione”,
-   “role” : “Frontend Dev | MERN Stack”,
+   “role” : “FullStack Dev | MERN Stack”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/mghiglione/“, 
-      "Resume"   : "https://matighi.github.io/landing”
+      "Resume"   : "https://matighi.github.io/landing”,
+      "Portfolio": "https://mghiglione.dev"
      }
  }
 ```
